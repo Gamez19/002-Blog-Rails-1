@@ -6,7 +6,7 @@ class PostTest < ActiveSupport::TestCase
    #end
 
 	test "Post Sin Titulo" do
-		post = Post.new(title: '123', body: '')
+		post = Post.new(title: 'Testing Rails', body: 'Pruebas unitarias en ')
 		assert  post.save
 	end   
 
