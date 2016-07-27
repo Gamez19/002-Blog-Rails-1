@@ -1,0 +1,18 @@
+Successfully installed warden-1.2.6
+Successfully installed orm_adapter-0.5.0
+Building native extensions.  This could take a while...
+Successfully installed bcrypt-3.1.11
+Successfully installed responders-2.2.0
+Successfully installed devise-4.2.0
+Parsing documentation for warden-1.2.6
+Installing ri documentation for warden-1.2.6
+Parsing documentation for orm_adapter-0.5.0
+Installing ri documentation for orm_adapter-0.5.0
+Parsing documentation for bcrypt-3.1.11
+Installing ri documentation for bcrypt-3.1.11
+Parsing documentation for responders-2.2.0
+Installing ri documentation for responders-2.2.0
+Parsing documentation for devise-4.2.0
+Installing ri documentation for devise-4.2.0
+Done installing documentation for warden, orm_adapter, bcrypt, responders, devise after 22 seconds
+5 gems installed
